@@ -1,0 +1,32 @@
+<view class="page" data-weui-theme="{{theme}}">
+    <view class="page__hd">
+        <view class="page__title">VDS 明网</view>
+        <text>\n</text>
+        <view>简介</view>
+        <view class="page__desc">明网是百度可搜索到的网站，其内容与暗网别无二致，现提供VDS下载</view>
+        
+        <text>\n</text>
+        <view>浏览</view>
+
+        <view class="page__desc">法 ➀</view>
+        <view class="page__desc">请点击 ↡ 复制链接</view>
+        <view class="page__desc">粘贴至浏览器中打开</view>
+        <view  bindtap='copyText' data-text="http://vzone.io/">明网入口</view>
+        <text>\n</text>
+        <view class="page__desc">法 ➁</view>
+        <view class="page__desc">请长按保存二维码</view>
+        <view class="page__desc">通过微信扫描将打开</view>
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            <view class="weui-article__section">
+                <view class="weui-article__section">
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" show-menu-by-longpress="true" src="../images/website.png" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+            </view>
+        </view>
+    </view>
+
+</view>

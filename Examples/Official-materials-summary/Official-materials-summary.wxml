@@ -1,0 +1,27 @@
+<view class="page" data-weui-theme="{{theme}}">
+    <view class="page__hd">
+        <view class="page__title">VDS 官方资料汇总</view>
+        <view class="page__desc">法 ➀</view>
+        <view class="page__desc">点击 ↡ 直接复制链接</view>
+        <view class="page__desc">于浏览器中打开</view>
+        <view  bindtap='copyText' data-text="https://mp.weixin.qq.com/s?__biz=MzUxODczNjI3OA==&mid=2247483859&idx=1&sn=803f49e95298a14f086dea326291cfb1&chksm=f985112acef2983c5db54144e7941c898b54fb875380bf0e9c37428c64805d41e4b13b70e0d3&token=110209473&lang=zh_CN#rd">官方资料</view>
+        <text>\n</text>
+        <view class="page__desc">法 ➁</view>
+        <view class="page__desc">请长按保存二维码</view>
+        <view class="page__desc">通过微信扫描将打开</view>
+        
+        
+
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            <view class="weui-article__section">
+                <view class="weui-article__section">
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" show-menu-by-longpress="true" src="../images/official_materials.png" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+            </view>
+        </view>
+    </view>
+</view>

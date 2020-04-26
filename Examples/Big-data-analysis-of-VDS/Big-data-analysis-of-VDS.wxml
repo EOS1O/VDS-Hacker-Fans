@@ -1,0 +1,27 @@
+<view class="page" data-weui-theme="{{theme}}">
+    <view class="page__hd">
+        <view class="page__title">大数据分析VDS</view>
+        <view class="page__desc">法 ➀</view>
+        <view class="page__desc">点击 ↡ 直接复制链接</view>
+        <view class="page__desc">于浏览器中打开</view>
+        <view  bindtap='copyText' data-text="https://mp.weixin.qq.com/s?__biz=MzUxODczNjI3OA==&mid=2247483689&idx=1&sn=96b99fd3dd6bcb7ea4dc2b1776a67f5b&chksm=f98511d0cef298c64eaf9ec28f3285dcb890dbd36b7b02ef534a0c39c5ac8b318a3975f4b459&token=110209473&lang=zh_CN#rd">VDS背后的金主</view>
+        <text>\n</text>
+        <view class="page__desc">法 ➁</view>
+        <view class="page__desc">请长按保存二维码</view>
+        <view class="page__desc">通过微信扫描将打开</view>
+        
+        
+
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            <view class="weui-article__section">
+                <view class="weui-article__section">
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" show-menu-by-longpress="true" src="../images/big_data.png" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+            </view>
+        </view>
+    </view>
+</view>

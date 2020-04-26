@@ -1,0 +1,26 @@
+<view class="page" data-weui-theme="{{theme}}">
+    <official-account></official-account>
+    <view class="page__hd">
+        
+        <view class="page__title">半缘君</view>
+        <view class="page__desc">VDS早期布道者，明网第一人</view>
+        <text>\n</text>
+        <text>人生信条</text>
+        <view class="page__desc">过往不恋，当时不杂，未来不迎</view>
+        <text>\n</text>
+        <view class="page__desc">在加密世界里晃荡了这么多年，唯一真正参与到生态建设当中的只有VDS。裂变赚币，超级节点赚币，明网赚币皆是知识的变现，是对自己的尊重。持币待涨等于白嫖，劳动最光荣！</view>     
+
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            <view class="weui-article__section">
+                <view class="weui-article__section">
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" show-menu-by-longpress="true" src="../images/hacker.png" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+            </view>
+        </view>
+    </view>
+    
+</view>

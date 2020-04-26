@@ -1,0 +1,27 @@
+<view class="page" data-weui-theme="{{theme}}">
+    <view class="page__hd">
+        <view class="page__title">生态服务者的盈利方式</view>
+        <view class="page__desc">法 ➀</view>
+        <view class="page__desc">点击 ↡ 直接复制链接</view>
+        <view class="page__desc">于浏览器中打开</view>
+        <view  bindtap='copyText' data-text="https://mp.weixin.qq.com/s?__biz=MzUxODczNjI3OA==&mid=2247483815&idx=1&sn=cd8e0816f00efa4d6e9061a0dfece737&chksm=f985115ecef298484324ec3215159730a7edd73c4378222a144d1c16c00ce9eafbab0e9d6101&token=110209473&lang=zh_CN#rd">如何赚取10000VDS</view>
+        <text>\n</text>
+        <view class="page__desc">法 ➁</view>
+        <view class="page__desc">请长按保存二维码</view>
+        <view class="page__desc">通过微信扫描将打开</view>
+        
+        
+
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            <view class="weui-article__section">
+                <view class="weui-article__section">
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" show-menu-by-longpress="true" src="../images/10000VDS.png" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+            </view>
+        </view>
+    </view>
+</view>

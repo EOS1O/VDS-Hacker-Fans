@@ -1,0 +1,39 @@
+{
+  "pages": [
+    "Examples/index",
+    "Examples/my-vds/my-vds",
+    "Examples/vdscool/vdscool",
+    "Examples/Andriod/Andriod",
+    "Examples/Windows/Windows",
+    "Examples/Linux/Linux",
+    "Examples/Whitepaper/Whitepaper",
+    "Examples/Activate-VID-Source-Account/Activate-VID-Source-Account",
+    "Examples/Linux_creates-a-supernode/Linux_creates-a-supernode",
+    "Examples/Windows_creates-a-supernode/Windows_creates-a-supernode",
+    "Examples/Multi-signature_address/Multi-signature_address",
+    "Examples/MD5-verification-tutorial/MD5-verification-tutorial",
+    "Examples/Private-key-separation-tutorial/Private-key-separation-tutorial",
+    "Examples/Official-video-resources/Official-video-resources",
+    "Examples/Big-data-analysis-of-VDS/Big-data-analysis-of-VDS",
+    "Examples/View-of-giant-whales/View-of-giant-whales",
+    "Examples/How-to-earn-10000-VDS/How-to-earn-10000-VDS",
+    "Examples/VDS-Events/VDS-Events",
+    "Examples/Official-materials-summary/Official-materials-summary",
+    "Examples/VDS-Believer/VDS-Believer",
+    "Examples/VDS+/VDS+",
+    "Examples/Vzone/Vzone",
+    "Examples/Monopoly/Monopoly",
+    "Examples/SV/SV",
+    "Examples/Website/Website"
+
+    
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "VDS TO THE MOON",
+    "navigationBarTextStyle": "black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

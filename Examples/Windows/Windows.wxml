@@ -1,0 +1,29 @@
+<view class="page" data-weui-theme="{{theme}}">
+    <view class="page__hd">
+        <view class="page__title">Windows最新版</view>
+        <view class="page__desc">法 ➀</view>
+        <view class="page__desc">点击直接复制链接</view>
+        <view class="page__desc">于浏览器中打开</view>
+        <view  bindtap='copyText' data-text="https://soft.v30v.com/vds ">https://soft.v30v.com/vds </view>
+        <text>\n</text>
+        <view class="page__desc">法 ➁</view>
+        <view class="page__desc">请长按保存二维码</view>
+        <view class="page__desc">通过微信扫描将打开</view>
+        <text>\n</text>
+        <view>PS:切记一定要验证MD5</view>
+        <view class="page__desc">（草莓社区提供）</view>
+        
+
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            <view class="weui-article__section">
+                <view class="weui-article__section">
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" show-menu-by-longpress="true" src="../images/Andriod.png" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+            </view>
+        </view>
+    </view>
+</view>
