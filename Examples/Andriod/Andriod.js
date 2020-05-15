@@ -1,3 +1,4 @@
+
 Page({
   mixins: [require('../../mixin/themeChanged')],
 
@@ -18,5 +19,8 @@ Page({
         })
       }
     })
+  },
+
+  onShareAppMessage: function () {
   },
 });

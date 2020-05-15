@@ -1,6 +1,6 @@
 <view class="page" data-weui-theme="{{theme}}">
     <view class="page__hd">
-        <view class="page__title">SV</view>
+        <view class="page__title">Super Vollar</view>
         <text>\n</text>
         <view>简介</view>
         <view class="page__desc">类似VDS仿盘，现已开通VDS共振SV，SVAD，回振等功能</view>
@@ -28,5 +28,5 @@
             </view>
         </view>
     </view>
-
+    <ad unit-id="adunit-c2e61aff66e614d1" ad-type="grid" grid-opacity="0.8" grid-count="5" ad-theme="white"></ad>
 </view>

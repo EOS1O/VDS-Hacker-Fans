@@ -1,0 +1,33 @@
+<view class="page" data-weui-theme="{{theme}}">
+    <view class="page__hd">
+        <view class="page__title">千里眼链讯</view>
+        <text>\n</text>
+        <view>简介</view>
+        <view class="page__desc">千里眼链讯致力打造垂直于币圈信息的专业资讯类门户网站，现已开通VDS专题版面，致力于为广大V粉丝提供最全面的VDS资讯</view>
+        
+        
+        <text>\n</text>
+        <view>访问</view>
+
+        <view class="page__desc">法 ➀</view>
+        <view class="page__desc">请点击 ↡ 复制链接</view>
+        <view class="page__desc">粘贴至浏览器中打开</view>
+        <view  bindtap='copyText' data-text="www.keyeinfo.com">即刻访问千里眼链讯</view>
+        <text>\n</text>
+        <view class="page__desc">法 ➁</view>
+        <view class="page__desc">请长按保存二维码</view>
+        <view class="page__desc">通过微信扫描将打开</view>
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            <view class="weui-article__section">
+                <view class="weui-article__section">
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" show-menu-by-longpress="true" src="https://i.loli.net/2020/05/08/UIkHaOVoeKEgw9G.png" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+            </view>
+        </view>
+    </view>
+    <ad unit-id="adunit-c2e61aff66e614d1" ad-type="grid" grid-opacity="0.8" grid-count="5" ad-theme="white"></ad>
+</view>

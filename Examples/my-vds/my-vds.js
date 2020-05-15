@@ -19,4 +19,6 @@ Page({
       }
     })
   },
+  onShareAppMessage: function () {
+  },
 });

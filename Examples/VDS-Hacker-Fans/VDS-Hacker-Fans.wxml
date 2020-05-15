@@ -1,0 +1,33 @@
+<view class="page" data-weui-theme="{{theme}}">
+    <view class="page__hd">
+        <view class="page__title">VDS Hacker Fans</view>
+        <text>\n</text>
+        <view>简介</view>
+        <view class="page__desc">VDS Hacker Fans 为半缘君于2020年开发一款关于VDS的微信小程序，本代码完全开源此小程序所有内容，基于weui编写，持续更新</view>
+        
+        
+        <text>\n</text>
+        <view>代码库</view>
+
+        <view class="page__desc">法 ➀</view>
+        <view class="page__desc">请点击 ↡ 复制链接</view>
+        <view class="page__desc">粘贴至浏览器中打开</view>
+        <view  bindtap='copyText' data-text="https://github.com/EOS1O/VDS-Hacker-Fans/tree/vds">VDS Hacker Fans github代码库</view>
+        <text>\n</text>
+        <view class="page__desc">法 ➁</view>
+        <view class="page__desc">请长按保存二维码</view>
+        <view class="page__desc">通过微信扫描将打开</view>
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            <view class="weui-article__section">
+                <view class="weui-article__section">
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" show-menu-by-longpress="true" src="../images/vdshackerfans.png" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+            </view>
+        </view>
+    </view>
+    <ad unit-id="adunit-5d9ce199d0fa00c7" ad-type="video" ad-theme="white"></ad>
+</view>

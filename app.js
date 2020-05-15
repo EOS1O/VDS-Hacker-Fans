@@ -2,6 +2,9 @@ require('./libs/Mixins.js');
 
 const themeListeners = [];
 
+
+
+
 App({
     globalData: {
         theme: 'dark', // dark
@@ -23,4 +26,16 @@ App({
             themeListeners.splice(index, 1);
         }
     },
+
+    onPullDownRefresh: function () {
+        wx.showNavigationBarLoading()
+        this.onLoad()
+        setTimeout(() => {
+          wx.hideNavigationBarLoading()
+          wx.stopPullDownRefresh()
+        }, 2000);
+      },
+
+ 
+    
 });

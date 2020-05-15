@@ -1,0 +1,102 @@
+<view class="page" data-weui-theme="{{theme}}">
+    <view class="page__hd">
+        <view class="page__title">O T C</view>
+        <text>\n</text>
+        <view>简介</view>
+        <view class="page__desc">在VDS中，任何VID都可以通过分布式匿名隐私社交群组，创建自己的OTC交易所，该功能依赖OTC智能合约来保证交易双方的安全</view>
+        <view>
+            <image src="https://i.loli.net/2020/05/06/FknSvbyhBD1qg6a.png" style="height: 165px"/>
+        </view>
+        
+        <text>\n</text>
+        <view>优质OTC群组</view>
+
+        <view class="page__desc">♖ 海天盛筵</view>
+        <view class="page__desc">• 担保金：100,000V(三级)</view>
+        <view class="page__desc">• 现群组人数：536/11000</view>
+        <view class="page__desc">• OTC卖单手续费：0.2%</view>
+        <view class="page__desc">• 入群申请费：0.6V</view>
+        <text>\n</text>
+        <image class="weui-article__img" show-menu-by-longpress="true" src="../images/haitian.png" mode="aspectFit" style="height: 180px" />
+        <text>\n</text>
+        <text>\n</text>
+
+        <view class="page__desc">♖ WBF皇家学院</view>
+        <view class="page__desc">• 担保金：20,000V(一级)</view>
+        <view class="page__desc">• 现群组人数：1090/13333</view>
+        <view class="page__desc">• OTC卖单手续费：0.2%</view>
+        <view class="page__desc">• 入群申请费：0.0V</view>
+        <text>\n</text>
+        <image class="weui-article__img" show-menu-by-longpress="true" src="../images/WBF.png" mode="aspectFit" style="height: 180px" />
+        <text>\n</text>
+        <text>\n</text>
+
+        <view class="page__desc">♖ G点社区</view>
+        <view class="page__desc">• 担保金：10,000V(一级)</view>
+        <view class="page__desc">• 现群组人数：924/100,000</view>
+        <view class="page__desc">• OTC卖单手续费：0.1%</view>
+        <view class="page__desc">• 入群申请费：0.0V</view>
+        <text>\n</text>
+        <image class="weui-article__img" show-menu-by-longpress="true" src="../images/G.png" mode="aspectFit" style="height: 180px" />
+        <text>\n</text>
+        <text>\n</text>
+
+        <view class="page__desc">♖ 比高国际</view>
+        <view class="page__desc">• 担保金：10,000V(一级)</view>
+        <view class="page__desc">• 现群组人数：647/1000</view>
+        <view class="page__desc">• OTC卖单手续费：0.1%</view>
+        <view class="page__desc">• 入群申请费：0.001V</view>
+        <text>\n</text>
+        <image class="weui-article__img" show-menu-by-longpress="true" src="../images/bigao.png" mode="aspectFit" style="height: 180px" />
+        <text>\n</text>
+        <text>\n</text>
+
+        <view class="page__desc">♖ 领跑者社区</view>
+        <view class="page__desc">• 担保金：10,000V(一级)</view>
+        <view class="page__desc">• 现群组人数：327/1200</view>
+        <view class="page__desc">• OTC卖单手续费：1.0%</view>
+        <view class="page__desc">• 入群申请费：0.001V</view>
+        <text>\n</text>
+        <image class="weui-article__img" show-menu-by-longpress="true" src="../images/run.png" mode="aspectFit" style="height: 180px" />
+        <text>\n</text>
+        <text>\n</text>
+
+        <view class="page__desc">♖ 创世纪</view>
+        <view class="page__desc">• 担保金：10,000V(一级)</view>
+        <view class="page__desc">• 现群组人数：246/1200</view>
+        <view class="page__desc">• OTC卖单手续费：0.2%</view>
+        <view class="page__desc">• 入群申请费：0.001V</view>
+        <text>\n</text>
+        <image class="weui-article__img" show-menu-by-longpress="true" src="../images/chuangshiji.png" mode="aspectFit" style="height: 180px" />
+        <text>\n</text>
+        <text>\n</text>
+
+        <view class="page__desc">♖ 空中</view>
+        <view class="page__desc">• 担保金：10,000V(一级)</view>
+        <view class="page__desc">• 现群组人数：195/1000</view>
+        <view class="page__desc">• OTC卖单手续费：0.1%</view>
+        <view class="page__desc">• 入群申请费：1.331V</view>
+        <text>\n</text>
+        <image class="weui-article__img" show-menu-by-longpress="true" src="../images/kongzhong.png" mode="aspectFit" style="height: 180px" />
+        <text>\n</text>
+        <text>\n</text>
+
+        <view class="page__desc">♖ 酒链商城</view>
+        <view class="page__desc">• 担保金：10,000V(一级)</view>
+        <view class="page__desc">• 现群组人数：153/1021</view>
+        <view class="page__desc">• OTC卖单手续费：0.2%</view>
+        <view class="page__desc">• 入群申请费：0.01V</view>
+        <view class="page__desc">• 允许交易法币：LQC</view>
+        <text>\n</text>
+        <image class="weui-article__img" show-menu-by-longpress="true" src="../images/jiulian.png" mode="aspectFit" style="height: 180px" />
+        <text>\n</text>
+        <text>\n</text>
+    </view>
+  
+
+    
+    
+
+    
+    <ad unit-id="adunit-5d9ce199d0fa00c7" ad-type="video" ad-theme="white"></ad>
+</view>

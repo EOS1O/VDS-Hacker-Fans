@@ -18,10 +18,11 @@
             <view class="weui-article__section">
                 <view class="weui-article__section">
                     <view class="weui-article__p">
-                        <image class="weui-article__img" show-menu-by-longpress="true" src="../images/events.png" mode="aspectFit" style="height: 180px" />
+                        <image class="weui-article__img" show-menu-by-longpress="true" src="../images/Events.png" mode="aspectFit" style="height: 180px" />
                     </view>
                 </view>
             </view>
         </view>
     </view>
+    <ad unit-id="adunit-c2e61aff66e614d1" ad-type="grid" grid-opacity="0.8" grid-count="5" ad-theme="white"></ad>
 </view>

@@ -1,7 +1,16 @@
+
 <view class="page" data-weui-theme="{{theme}}">
+    
     <view class="page__hd">
         <view class="page__title">V-Dimension</view>
         <view class="page__desc">VDS源自深网，目前已开放共振、裂变、超级节点、轻节点、OTC、匿名通信等</view>
+        <text>\n</text>
+        <view>
+            <canvas canvas-id="lineCanvas" disable-scroll="true" class="canvas" bindtouchstart="touchHandler"></canvas>
+        </view>
+        <text>\n</text>
+        <view>实时：{{Price}}　　24h：{{percent_change_24h}}%</view>
+        
     </view>
     <view class="page__bd page__bd_spacing">
         <view class="kind-list">
@@ -14,8 +23,8 @@
                     <view class="kind-list__item-bd {{item.open ? 'kind-list__item-bd_show' : ''}}">
                         <view class="weui-cells {{item.open ? 'weui-cells_show' : ''}}">
                             <block wx:for="{{item.pages}}" wx:for-item="page" wx:key="*this">
-                                <navigator url="{{page}}/{{page}}" class="weui-cell weui-cell_access">
-                                    <view class="weui-cell__bd">{{page}}</view>
+                                <navigator url="{{page.url}}/{{page.url}}" class="weui-cell weui-cell_access">
+                                    <view class="weui-cell__bd">{{page.name}}</view>
                                     <view class="weui-cell__ft weui-cell__ft_in-access"></view>
                                 </navigator>
                             </block>
